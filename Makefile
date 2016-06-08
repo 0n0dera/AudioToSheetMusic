@@ -1,0 +1,1 @@
+g++ -std=c++11 -I Midifile/include app.cc -o App
